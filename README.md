@@ -1,84 +1,84 @@
-# 🌌 COSMOS — Cinematic Solar System Explorer
+# 🌌 COSMOS — Solar System Explorer
 
-<div align="center">
-
-✨ A visually immersive Solar System experience built with Flutter ✨
-
-<img src="https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI-Cinematic-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blueviolet?style=for-the-badge"/>
-
-</div>
+A cinematic and visually immersive Solar System Explorer built with Flutter.
+COSMOS combines modern UI design, smooth animations, custom orbit rendering, and interactive planet exploration to create a premium mobile experience inspired by space exploration.
 
 ---
 
-## 🚀 About The Project
+# 🚀 Overview
 
-**COSMOS** is a premium Flutter-based Solar System Explorer designed to deliver a cinematic and immersive mobile experience.
-The app combines advanced UI design, smooth animations, custom-painted orbit systems, glowing 3D-inspired planets, and modern glassmorphism effects to create an interactive journey through space.
+COSMOS was designed to push Flutter’s UI and animation capabilities by creating a highly polished and interactive space-themed application.
 
-This project was built with a strong focus on:
+The project focuses heavily on:
 
-* 🎨 Creative UI/UX
-* ⚡ Smooth animations
-* 🌌 Immersive visual effects
-* 📱 Modern mobile interactions
-* 🚀 Flutter rendering capabilities
+* Smooth motion design
+* Cinematic visual effects
+* Immersive user experience
+* Modern mobile UI aesthetics
+* Custom rendering and animations
+
+Every animation, glow effect, orbit system, and transition was carefully crafted to create a realistic and engaging space environment.
 
 ---
 
 # ✨ Features
 
-✅ Interactive Solar System
-✅ Smooth Planet Orbit Animations
-✅ 3D Depth & Glow Effects
-✅ Animated Nebula Backgrounds
-✅ Shooting Star Effects
-✅ Glassmorphism UI Design
-✅ Planet Detail Screens
-✅ Custom Orbit Rendering
-✅ Responsive Flutter Layout
-✅ Premium Cinematic Feel
+* Interactive Solar System
+* Animated Planet Orbits
+* 3D-Inspired Planet Rendering
+* Dynamic Glow & Lighting Effects
+* Saturn Ring Rendering
+* Animated Nebula Backgrounds
+* Shooting Star Animations
+* Glassmorphism User Interface
+* Smooth Screen Transitions
+* Responsive Flutter Layout
+* Custom Orbit Painters
+* Detailed Planet Information Screens
 
 ---
 
-# 🪐 UI Highlights
+# 🪐 Visual Experience
 
-* Elliptical orbit system with perspective tilt
-* Dynamic glowing planets with shadows & highlights
-* Animated solar effects and rotating sun
-* Layered space backgrounds with nebula motion
-* Frosted glass bottom navigation panels
-* Smooth transitions and micro-interactions
-* Realistic orbital movement simulation
+The application includes multiple layered visual systems to create depth and realism:
 
----
+* Elliptical orbit perspective
+* Dynamic scaling for depth simulation
+* Multi-layer animated backgrounds
+* Realistic lighting and highlights
+* Rotating solar effects
+* Frosted glass UI panels
+* Smooth opacity and transition animations
 
-# 📸 Screenshots
-
-> Add your app screenshots here
-
-| Welcome Screen | Home Screen  | Planet Details |
-| -------------- | ------------ | -------------- |
-| Screenshot 1   | Screenshot 2 | Screenshot 3   |
+The goal was to make the interface feel cinematic rather than static.
 
 ---
 
-# 🛠️ Built With
+# 🛠️ Technologies Used
 
-* **Flutter**
-* **Dart**
-* **CustomPainter**
-* **AnimationController**
-* **Flutter Animate**
+## Framework
+
+* Flutter
+
+## Language
+
+* Dart
+
+## Libraries & Tools
+
+* flutter_animate
+* CustomPainter
+* AnimationController
+* BackdropFilter
+* Gradient & Shader Effects
 
 ---
 
 # 📂 Project Structure
 
-```bash
+```bash id="e3g7f2"
 lib/
+│
 ├── main.dart
 ├── splash_screen.dart
 ├── welcome_screen.dart
@@ -90,83 +90,93 @@ lib/
 
 ---
 
-# ⚙️ Installation
+# ⚙️ Getting Started
 
-Clone the repository:
+## Clone Repository
 
-```bash
+```bash id="ep8hzc"
 git clone https://github.com/khalid-myprojects/COSMAS.git
 ```
 
-Go to project directory:
+---
 
-```bash
+## Navigate to Project
+
+```bash id="m63j1p"
 cd COSMAS
 ```
 
-Install dependencies:
+---
 
-```bash
+## Install Dependencies
+
+```bash id="2j6f4v"
 flutter pub get
 ```
 
-Run the app:
+---
 
-```bash
+## Run Application
+
+```bash id="frv1xy"
 flutter run
 ```
 
 ---
 
-# 🎯 Goals of This Project
+# 🎯 Project Goals
 
-This project was created to explore how far Flutter UI and animations can be pushed to create a truly cinematic mobile experience.
+This project was created to explore how far Flutter can be pushed in terms of:
 
-The focus was not only functionality — but also:
+* animation quality
+* UI polish
+* rendering effects
+* immersive design
+* interactive mobile experiences
 
-* motion design
-* visual storytelling
-* immersive interaction
-* premium aesthetics
-
----
-
-# 🚀 Future Improvements
-
-* 🌍 Real-time planet data
-* ☄️ More advanced space animations
-* 🔭 Zoom & gesture interactions
-* 🎵 Space ambient sound effects
-* 🌑 Dark/Light cinematic themes
+The primary objective was to create a visually rich and smooth application that feels modern, premium, and cinematic.
 
 ---
 
-# 🤝 Contributions
+# 📱 Platform Support
 
-Contributions, suggestions, and feedback are always welcome.
+* Android
+* iOS
+* Web
+* Windows
+* macOS
+* Linux
 
-If you'd like to improve this project:
+---
 
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+# 🚀 Future Scope
+
+Planned improvements include:
+
+* Advanced gesture controls
+* Zoom and pan interactions
+* Additional planetary effects
+* Real-time space data
+* Enhanced motion systems
+* Audio integration
+* More cinematic transitions
 
 ---
 
 # 👨‍💻 Developer
 
-**Khalid Imran**
+Khalid Imran
 
-Passionate about Flutter development, cinematic UI design, and building immersive mobile experiences.
+Flutter Developer focused on modern UI/UX, animations, and immersive mobile application experiences.
 
 ---
 
-<div align="center">
+# ⭐ Support
 
-### 🌌 “The universe is full of magical things patiently waiting for our ingenuity to grow sharper.” 🚀
+If you found this project interesting, consider starring the repository to support the project.
 
-⭐ If you like this project, don't forget to star the repository!
+---
 
-</div>
+# 🌌 COSMOS
+
+> “Exploring space through code, animation, and design.”
